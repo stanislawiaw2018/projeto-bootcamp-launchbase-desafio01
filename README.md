@@ -16,7 +16,7 @@
 <h3 align="center">
 
 
-[Sobre o desafio](#🚀-Sobre-o-desafio)  |  [Tecnologias Utilizadas](#🛠️-Tecnologias-Utilizadas)  |  [Como Baixar](#⏬-Como-baixar-o-projeto)  |  [Licença](#📝-Licença)
+[Sobre o desafio](#-Sobre-o-desafio)  |  [Tecnologias Utilizadas](#-Tecnologias-Utilizadas)  |  [Como Baixar](#-Como-baixar-o-projeto)  |  [Licença](#-Licença)
 
 
 </h3>
