@@ -72,5 +72,6 @@ $git clone https://github.com/stanislawiaw2018/projeto-bootcamp-launchbase-desaf
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
+---
 
 Feito com ❤️ by Antonio
