@@ -9,11 +9,8 @@
 </blockquote>
 
 <p align="center">
-    <a href="https://rocketseat.com.br">
     <img alt="Made by Antonio Stanilsaw" src="https://img.shields.io/badge/made%20by-Antonio Stanislaw-%23F8952D">
-  </a>
-
-  
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
 </p>
 
 <h3 align="center">
@@ -65,6 +62,6 @@ $git clone https://github.com/stanislawiaw2018/projeto-bootcamp-launchbase-desaf
 
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 
