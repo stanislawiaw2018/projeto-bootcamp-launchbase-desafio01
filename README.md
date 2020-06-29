@@ -18,9 +18,11 @@
 
 <p align="center">
 
-[Sobre o desafio](#🚀-Sobre-o-desafio)  |  [Tecnologias Utilizadas](#🛠️-Tecnologias-Utilizadas)  |  [Como Baixar](#⏬-Como-baixar-o-projeto)  |  [Licença](#📝-Licença)
+[Sobre o desafio](#-Sobre-o-desafio)  |  [Tecnologias Utilizadas](#-Tecnologias-Utilizadas)  |  [Como Baixar](#-Como-baixar-o-projeto)  |  [Licença](#-Licença)
 
 </p>
+
+---
 
 ## 🚀 Sobre o desafio
 <p>
@@ -53,16 +55,23 @@ Baseado nos dados recebidos, o sistema deve retornar mensagens de acordo com as 
 - Se o `IMC` for maior ou igaul a `30`: Antonio você está acima do peso;
 - SE o `IMC` menor que `29.9`: Antonio você não está acima do peso;
 
+---
+
 ## 🛠️ Tecnologias Utilizadas
 - JavaScript
+
+---
 
 ## ⏬ Como baixar o projeto
 ```bash
 $git clone https://github.com/stanislawiaw2018/projeto-bootcamp-launchbase-desafio01.git
 ```
 
+---
+
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../LICENSE) para mais detalhes.
 
 
+Feito com ❤️ by Antonio
