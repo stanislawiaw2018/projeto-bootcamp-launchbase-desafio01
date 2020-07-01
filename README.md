@@ -9,18 +9,15 @@
 </blockquote>
 
 <p align="center">
-    <a href="https://rocketseat.com.br">
     <img alt="Made by Antonio Stanilsaw" src="https://img.shields.io/badge/made%20by-Antonio Stanislaw-%23F8952D">
-  </a>
-
-  
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
 </p>
 
-<p align="center">
+<h3 align="center">
 
 [Sobre o desafio](#-Sobre-o-desafio)  |  [Tecnologias Utilizadas](#-Tecnologias-Utilizadas)  |  [Como Baixar](#-Como-baixar-o-projeto)  |  [Licença](#-Licença)
 
-</p>
+</h3>
 
 ---
 
@@ -71,7 +68,8 @@ $git clone https://github.com/stanislawiaw2018/projeto-bootcamp-launchbase-desaf
 
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
+---
 
 Feito com ❤️ by Antonio
